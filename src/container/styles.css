@@ -1,0 +1,75 @@
+.gameboard {
+    width: 422px;
+    height: 428px;
+    margin: 20px auto 0 auto;
+    padding-bottom: 20px;
+}
+
+.gameboard-header {
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 22px;
+    background-color: #15171969;
+    border-radius: 12px;
+    width: 45%;
+}
+
+.css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root {
+    width: 138px !important;
+    height: 18px !important;
+    background-color: rgb(2,103,165) !important;
+}
+
+.css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root:hover {
+    outline: none !important;
+    background: rgb(12,74,133) !important;
+    border: none !important;
+}
+
+.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input {
+    padding: 0 !important;
+}
+
+.css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root {
+    border-radius: 13px !important;
+}
+
+.css-1869usk-MuiFormControl-root {
+    margin: 1px !important;
+}
+
+.css-1poimk-MuiPaper-root-MuiMenu-paper-MuiPaper-root-MuiPopover-paper {
+    width: 160px !important;
+    height: 200px !important;
+    background: rgb(3,46,73) !important;
+}
+.css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root {
+    color: #fff !important;
+}
+.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root {
+    color: #fff !important;
+    width: 116px !important;
+    height: 16px !important;
+    margin: 10px auto!important;
+    border-radius: 13px !important;
+    background: rgb(2,103,165) !important;
+}
+
+.css-1869usk-MuiFormControl-root {
+    text-indent: 50% !important;
+}
+
+.footer {
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    height: 70px;
+    padding: 0 2px 2px;
+    background: rgb(3,82,145);
+    border-radius: 12px;
+    margin: 2px 2px;
+    display: flex;
+    justify-content: space-around;
+}
